@@ -5,6 +5,8 @@ Full-Stack Developer
 **Languages and Tools**
 
 <img align="middle" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="max-width: 100%;">
+<img align="middle" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
 
 <div dir="auto">
   <a href="mailto: ronerrodrigues.dev@gmail.com"><img src="https://camo.githubusercontent.com/8dc571c3424c4f1f050a1b6d82f5051c3735615c84658d78e602e1d274fa7e96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532334541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
