@@ -2,6 +2,8 @@
 
 Full-Stack Developer
 
+<img align="middle" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="max-width: 100%;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+
+
           
