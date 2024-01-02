@@ -1,6 +1,8 @@
-## Welcome, my name is Roner Rodrigues
+## Welcome, my name is Roner Rodrigues.
 
 Full-Stack Developer
+
+# Languages and Tools:
 
 <img align="middle" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="max-width: 100%;">
 
