@@ -28,10 +28,4 @@ Full-Stack Developer
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="middle" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;"></a>
 </div>
 
-
-
-          
-<div dir="auto"><br/>
-  <a href="https://www.linkedin.com/in/roner-rodrigues/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
-</div>
           
